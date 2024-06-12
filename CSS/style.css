@@ -1,0 +1,60 @@
+
+
+@charset "utf-8";
+
+*{					/* Bildschirm reset*/
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#Startseite-Box{height:900px;width:1500px;background-color:grey;display:block;}
+
+#Social-Media{height:75px;width:170px;display:block;position:relative;left:50px;}
+#Folgen-Sie-uns{height:25px;width:170px;}
+#Folgen-Sie-uns p{font-size:1.5em;font-family:Bodoni MT Condensed;}
+#Infatw{height:50px;width:170px;display:flex;}
+#Instagram{height:50px;width:56.6px;display:flex;}
+#Facebook{height:50px;width:56.6px;}
+#Twitter{height:50px;width:56.7px;}
+
+#Text-Autologos{height:180px;width:1500px;display:flex;}
+#Mercedes-Seite{height:90px;width:100px;margin-top:50px;margin-left:10px;}
+#Text{height:110px;width:800px;display:flex;margin-top:50px;}
+#Text p{font-size:2.9em;font-family:Bodoni MT Condensed;margin-left:60px;}
+#M-Text{height:110px;width:800px;display:flex;margin-top:50px;}
+#M-Text p{font-size:2.9em;font-family:Bodoni MT Condensed;margin-left:60px;}
+#Mercedes-Aussen{height:500px;width:800px;margin-left:500px;margin-top:130px;}
+#Autologos{height:120px;width:700px;margin-top:50px;display:flex}
+
+#Mercedes-Benz{height:120px;width:184px;display:flex;}
+#Audi{height:120px;width:184px;}
+#Alfa-Romeo{height:120px;width:184px;}
+#Bentley{height:120px;width:184px;}
+#BMW{height:120px;width:184px;}
+
+#Main-Bild{height:570px;width:1500px;display:flex;}
+#Vintage-Cars-Alexandra-index{height:250px;width:700px;display:block;margin-top:320px;}
+#Vintage-Cars-Alexandra{height:250px;width:700px;display:block;}
+#Vintage-Cars-Alexandra-oben{height:350px;width:700px;display:flex;}
+#Mercedes-Infos{height:350px;width:350px;display:flex;}
+#Mercedes-Infos p{font-size:2.7em;font-family:Bodoni MT Condensed;}
+#Text-2{height:350px;width:350px;margin-bottom:50px;}
+#Text-2 p{font-size:2.7em;font-family:Bodoni MT Condensed;}
+#Vintage-Cars{height:180px;width:700px;}
+#Vintage-Cars p{font-size:10em;font-family:Bodoni MT Condensed;margin-left:45px;}
+#By-Alexandra{height:40px;width:700px;}
+#By-Alexandra p{font-size:2em;font-family:Bodoni MT Condensed;margin-left:280px;color:#104E8B;}
+#Mercedes-Bilder{height:570px;width:800px;display:block;}
+#Auto-Startbild{height:520px;width:800px;}
+
+#Footer{height:55px;width:1500px;display:flex;}
+#Kontakt{height:55px;width:200px;margin-left:700px;}
+#Kontakt p{font-size:2em;font-family:Bodoni MT Condensed;margin-top:10px;}
+#Telefonnummer{height:55px;width:300px;}
+#Telefonnummer p{font-size:2em;font-family:Bodoni MT Condensed;margin-top:10px}
+#E-Mail{height:55px;width:300px;}
+#E-Mail p{font-size:2em;font-family:Bodoni MT Condensed;margin-top:10px}
+
+
+
+
